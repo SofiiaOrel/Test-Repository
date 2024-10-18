@@ -1,0 +1,12 @@
+"project_id_env": "projectId"
+"api_token_env": "personal-access-token"
+"base_url": "https://sofiiacompany.crowdin.com"
+
+"preserve_hierarchy": true
+
+"files": [
+  {
+    "source": "/Test EN/en_test.json",
+    "translation": "/%two_letters_code%/%two_letters_code%.json"
+  },
+]
