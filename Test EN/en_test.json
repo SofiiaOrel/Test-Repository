@@ -1,4 +1,5 @@
 {
   "test": "Key for translation",
-  "second": "Another key"
+  "second": "Another key",
+  "third": "Final string"
 }
