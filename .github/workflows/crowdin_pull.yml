@@ -1,4 +1,4 @@
-name: Crowdin Action (Pull to Crowdin)
+name: Crowdin Action (Pull from Crowdin)
 
 on:
    schedule:
